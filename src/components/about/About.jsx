@@ -38,7 +38,7 @@ const about = () => {
             </article>
           </div>
           <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae corporis tempore dignissimos neque repudiandae explicabo officia ullam possimus saepe nostrum quibusdam, laudantium odio. Ipsam dolore amet quidem quis provident deleniti.
+          I am a student persuing my degree in bachelor of Engineering in Computer Science and Engineering at Jain College of Engineering and Technology Hubli. I am a quick learner and can adopt to any situation quite easily. I am hardworking and can handle multiple tasks. I am eager to learn, I enjoy overcoming challenges.
       </p>
 
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
